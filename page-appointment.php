@@ -1,6 +1,6 @@
 <?php
 /*
-* Template Name: Fullwidth Contact Us
+* Template Name: Appointment Template
 */
 ?>
 
@@ -8,8 +8,8 @@
 
 <section>
 <div class="section-title mx-auto my-4 text-center text-uppercase">
-	<h3>Contact us</h3>
-    <h6>You can send your course coupon or any message by filling below form</h6>
+	<h3>Appointment</h3>
+    <h6>Book your appointment by filling below form</h6>
 </div>
     <div class="container">
         <div class="row">

@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
 
 <!-- ======= Hero Section ======= -->
-<section id="hero" class="d-flex align-items-center">
+<section id="hero" class="d-flex align-items-center" style="background: url(<?php echo get_field('hero_image'); ?>) top center;">
     <div class="container">
       <h1>Welcome to Kalyani<br/>Eye & Retina Centre</h1>
       <h2>Where expertise meets compassion,</br>restoring and preserving your precious vision.</h2>
