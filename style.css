@@ -1,0 +1,121 @@
+/*
+Theme Name: MyTheme
+Theme URI: https://wordpress.org/themes/MyTheme/
+Author: MyTheme Author
+Author URI: https://wordpress.org/
+Description: Custom wordpress theme created from Html template
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: mytheme
+*/
+
+@import url("assets/css/fontawesome-all.min.css");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,300italic");
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Raleway:ital,wght@0,200;0,300;0,400;0,500;0,600;1,200;1,300&family=Ubuntu:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap');
+
+* {
+	font-family: 'Raleway', sans-serif;
+}
+
+.section-title,
+.searchform-section {
+	width: 50vw;
+}
+
+.blink_me {
+	animation: blinker 1s linear infinite;
+}
+
+.top-banner {
+	margin-bottom: -8px;
+	position: sticky;
+	top: 0;
+}
+
+@keyframes blinker {
+	50% {
+		opacity: 0.3;
+	}
+}
+
+#wpforms-submit-59 {
+	background-color: black;
+	border-color: black;
+	width: 200px;
+	font-weight: bold;
+	color: white;
+}
+
+#carouselPromotionCaptions .carousel-item {
+	height: 50vh;
+}
+
+/* Top right text */
+.card-top-right {
+	position: absolute;
+	top: 8px;
+	right: 16px;
+}
+
+#page-wrapper {}
+
+/* Count style Start */
+.counter {
+    background-color:#fff;
+    /* padding: 20px 0px; */
+	padding-block: 20px;
+    border-radius: 5px;
+	box-shadow: 0px 5px 10px 0px #cceeff;
+}
+
+.count-title {
+    font-size: 36px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+	font-weight: 600;
+}
+
+.count-text {
+    font-size: 15px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+	font-weight: 500;
+}
+
+.fa-2x {
+    margin: 0 auto;
+    float: none;
+    display: table;
+}
+/* Count style End*/
+
+.serviceContainer .servicesCards{
+	display: flex;
+	justify-content: center;
+}
+
+.whyChooseUsContainer{
+	padding: 30px;
+    background: #1977cc;
+}
+.whyChooseUsContainer h3{
+	font-weight: 700;
+    font-size: 34px;
+	color: #fff;
+}
+
+
+@media(max-width: 768px) {
+	.searchform-section {
+		width: 98vw;
+	}
+
+	.section-title {
+		width: 98vw;
+	}
+}
