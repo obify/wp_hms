@@ -48,7 +48,6 @@
 					</svg>
 					<?php }?>
 					<?php echo get_field('top_nav_phone_one') ?></h6>
-					<h6><?php echo get_field('top_nav_phone_two') ?></h6>
 				</div>
 				<div class="socialIcons">
 					<p><i class="fa-brands fa-x-twitter"></i></p>

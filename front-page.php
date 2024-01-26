@@ -213,25 +213,25 @@ jQuery(function ($) {
 <!-- SERVICES START -->
 <div class="serviceContainer text-center mt-5">
     <h3>Our Services</h3>
-    <p>Discover unparalleled eye care services at our center, offering cutting-edge diagnostics like Optical Coherence Tomography, precise measurements with Optical Biometry and Pachymetry, transformative treatments such as YAG Laser, and specialized care for glaucoma, diabetes retinopathy, occuloplasty, and squint correction. Elevate your vision with our expert team and diverse optical collection, ensuring clear sight and stylish choices for every patient.</p>
+    <p class="container">Discover unparalleled eye care services at our center, offering cutting-edge diagnostics like Optical Coherence Tomography, precise measurements with Optical Biometry and Pachymetry, transformative treatments such as YAG Laser, and specialized care for glaucoma, diabetes retinopathy, occuloplasty, and squint correction. Elevate your vision with our expert team and diverse optical collection, ensuring clear sight and stylish choices for every patient.</p>
     <div class="container mt-3">
       <div class="row">
         <div class="col-md-4">
             <div class="card">
-                <img src="https://images.pexels.com/photos/5621857/pexels-photo-5621857.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="card-img-top" alt="...">
+                <img src="https://plus.unsplash.com/premium_photo-1661302956617-b40b5d2bf19d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Revolutionizing Vision: Modern Cataract Surgery through Phaco Emulsification</h5>
-                    <p class="card-text">Explore advanced eye care with our state-of-the-art Phaco Emulsification, ensuring precise and efficient cataract surgery for enhanced vision and recovery.</p>
+                    <h5 class="card-title">Revolutionizing Vision</h5>
+                    <p class="card-text">Modern Cataract Surgery through Phaco Emulsification</p>
                     <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
                 </div>
             </div>
         </div>
         <div class="col-md-4">
           <div class="card">
-              <img src="https://images.pexels.com/photos/5621857/pexels-photo-5621857.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="card-img-top" alt="...">
+              <img src="https://images.pexels.com/photos/5765829/pexels-photo-5765829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="card-img-top" alt="...">
               <div class="card-body">
-                  <h5 class="card-title">Precision in Sight: Computerized Eye Testing for Accurate Vision Assessment</h5>
-                  <p class="card-text">Discover the future of eye examinations with our computerized testing, providing thorough and precise assessments for optimal vision correction and care.</p>
+                  <h5 class="card-title">Precision in Sight</h5>
+                  <p class="card-text">Computerized Eye Testing for Accurate Vision Assessment</p>
                   <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
               </div>
           </div>
@@ -240,8 +240,28 @@ jQuery(function ($) {
           <div class="card">
               <img src="https://images.pexels.com/photos/5621857/pexels-photo-5621857.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="card-img-top" alt="...">
               <div class="card-body">
-                  <h5 class="card-title">Clarity Unveiled: Optical Coherence Tomography for Detailed Eye Imaging</h5>
-                  <p class="card-text">Experience cutting-edge diagnostics with Optical Coherence Tomography, offering unparalleled insights into eye health for precise diagnosis and tailored treatment plans.</p>
+                  <h5 class="card-title">Clarity Unveiled</h5>
+                  <p class="card-text">Optical Coherence Tomography for Detailed Eye Imaging</p>
+                  <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+              </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card">
+              <img src="https://images.pexels.com/photos/5715882/pexels-photo-5715882.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="card-img-top" alt="...">
+              <div class="card-body">
+                  <h5 class="card-title">Precision Measurements</h5>
+                  <p class="card-text">Optical Biometry and Pachymetry for Comprehensive Eye Assessment</p>
+                  <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+              </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card">
+              <img src="https://images.pexels.com/photos/5654750/pexels-photo-5654750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="card-img-top" alt="...">
+              <div class="card-body">
+                  <h5 class="card-title">Visual Insight</h5>
+                  <p class="card-text">Explore Your Vision with Advanced Field Analyzer Technology</p>
                   <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
               </div>
           </div>
@@ -250,8 +270,8 @@ jQuery(function ($) {
           <div class="card">
               <img src="https://images.pexels.com/photos/5621857/pexels-photo-5621857.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="card-img-top" alt="...">
               <div class="card-body">
-                  <h5 class="card-title">Precision Measurements: Optical Biometry and Pachymetry for Comprehensive Eye Assessment</h5>
-                  <p class="card-text">Elevate your eye care with advanced optical biometry and pachymetry, ensuring accurate measurements crucial for personalized treatment and optimal visual outcomes.</p>
+                  <h5 class="card-title">Laser Precision</h5>
+                  <p class="card-text">Transformative Eye Care with YAG Laser Technology</p>
                   <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
               </div>
           </div>
@@ -260,28 +280,8 @@ jQuery(function ($) {
           <div class="card">
               <img src="https://images.pexels.com/photos/5621857/pexels-photo-5621857.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="card-img-top" alt="...">
               <div class="card-body">
-                  <h5 class="card-title">Visual Insight: Explore Your Vision with Advanced Field Analyzer Technology</h5>
-                  <p class="card-text">Uncover the full scope of your visual field through our cutting-edge field analyzer, a sophisticated tool for comprehensive eye examinations and precise diagnostic insights.</p>
-                  <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
-              </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="card">
-              <img src="https://images.pexels.com/photos/5621857/pexels-photo-5621857.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="card-img-top" alt="...">
-              <div class="card-body">
-                  <h5 class="card-title">Laser Precision: Transformative Eye Care with YAG Laser Technology</h5>
-                  <p class="card-text">Embrace advanced eye treatments with YAG Laser, offering precision and efficacy for conditions like cataracts and glaucoma, ensuring optimal vision outcomes with minimal discomfort.</p>
-                  <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
-              </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="card">
-              <img src="https://images.pexels.com/photos/5621857/pexels-photo-5621857.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="card-img-top" alt="...">
-              <div class="card-body">
-                  <h5 class="card-title">Laser Precision: Transformative Eye Care with YAG Laser Technology</h5>
-                  <p class="card-text">Embrace advanced eye treatments with YAG Laser, offering precision and efficacy for conditions like cataracts and glaucoma, ensuring optimal vision outcomes with minimal discomfort.</p>
+                  <h5 class="card-title">Laser Precision</h5>
+                  <p class="card-text">Transformative Eye Care with YAG Laser Technology</p>
                   <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
               </div>
           </div>
@@ -291,11 +291,58 @@ jQuery(function ($) {
 </div>
 <!-- SERVICES END -->
 
+<div class="container my-3">
+  <h3 id="heading" class="text-center py-2">Heading</h3>
+  <div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        Accordion Item #1
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+      <div class="accordion-body"><strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        <div class="imageCarousel">
+          <img src="<?php echo get_template_directory_uri()."/images/img/hospital.jpg"; ?>" class="img-responsive">
+          <img src="<?php echo get_template_directory_uri()."/images/img/inside.jpg"; ?>" class="img-responsive">
+          <img src="<?php echo get_template_directory_uri()."/images/img/3.jpg"; ?>" class="img-responsive">
+        </div>
+      </div>
+      <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi minima in neque commodi corrupti voluptate, non porro sit? Molestias assumenda omnis, corrupti at esse itaque possimus sunt minus minima ipsa?</p>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingTwo">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        Accordion Item #2
+      </button>
+    </h2>
+    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        Accordion Item #3
+      </button>
+    </h2>
+    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
 <!-- APPOINTMENT START -->
 <div class="container mt-5 makeApointment">
   <h3 class="text-center">Make an Appointment</h3>
   <p class="text-center">Secure your path to optimal eye health. Schedule an appointment with us today for personalized, expert care, advanced diagnostics, and a commitment to preserving and enhancing your vision. Your journey to clear and healthy eyes begins with a simple appointment.</p>
-  <form class="row g-3 mt-4">
+  <div class="row g-3 mt-4">
   <div class="col-md-4">
     <input placeholder="Name" type="text" class="form-control" id="name">
   </div>
@@ -305,29 +352,19 @@ jQuery(function ($) {
   <div class="col-md-4">
     <input placeholder="Phone" type="text" class="form-control" id="phone">
   </div>
-  <div class="col-md-4">
-    <input placeholder="Appointment Date" type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
-  </div>
-  <div class="col-md-4">
-  <select id="inputState" class="form-select">
-      <option selected>Select Department</option>
-      <option>...</option>
-    </select>
-  </div>
-  <div class="col-md-4">
-  <select id="inputState" class="form-select">
-      <option selected>Select Doctor</option>
-      <option>...</option>
-    </select>
-  </div>
   <div class="form-floating">
-  <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></textarea>
-  <label for="floatingTextarea2">Comments</label>
+  <textarea class="form-control" placeholder="Leave a comment here" id="message" style="height: 100px"></textarea>
+  <label for="message">Your Query</label>
   </div>
   <div class="col-12 mx-auto d-grid">
-    <button type="submit" class="btn btn-primary">Make an Appointment</button>
+    <button id="submitAppointment" class="btn btn-primary">Make an Appointment</button>
   </div>
-</form>
+  <div class="d-flex justify-content-center">
+    <div id="spinnerElem" class="spinner-border" role="status">
+        <span class="visually-hidden">Loading...</span>
+    </div>
+  </div>
+</div>
 </div>
 <!-- APPOINTMENT END -->
 
@@ -392,15 +429,131 @@ jQuery(function ($) {
 </div>
 <!-- QUESTIONS ANSWEAR END -->
 
+<!-- Gallery Start -->
+<h3 class="galleryTitle">Gallery</h3>
+<div id="gallery" class="container-fluid">  
+  <img src="<?php echo get_template_directory_uri()."/images/img/hospital.jpg"; ?>" class="img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/inside.jpg"; ?>" class="img-responsive">
+   <img src="<?php echo get_template_directory_uri()."/images/img/1.jpg"; ?>" class="img-responsive">
+  <!-- <video class="vid" controls>
+    <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4">
+    </source>
+  </video> -->
+  <img src="<?php echo get_template_directory_uri()."/images/img/2.jpg"; ?>" class="img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/3.jpg"; ?>" class="img-responsive">
+<img src="<?php echo get_template_directory_uri()."/images/img/4.jpg"; ?>" class="img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/5.jpg"; ?>" class="card img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/6.jpg"; ?>" class="img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/7.jpg"; ?>" class="img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/8.jpg"; ?>" class="img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/9.jpg"; ?>" class="img-responsive">
+<img src="<?php echo get_template_directory_uri()."/images/img/10.jpg"; ?>" class="img-responsive">
+<img src="<?php echo get_template_directory_uri()."/images/img/11.jpg"; ?>" class="img-responsive">
+<img src="<?php echo get_template_directory_uri()."/images/img/12.jpg"; ?>" class="img-responsive">
+<img src="<?php echo get_template_directory_uri()."/images/img/13.jpg"; ?>" class="img-responsive">
+<img src="<?php echo get_template_directory_uri()."/images/img/14.jpg"; ?>" class="img-responsive">
+<img src="<?php echo get_template_directory_uri()."/images/img/15.jpg"; ?>" class="img-responsive">
+<img src="<?php echo get_template_directory_uri()."/images/img/16.jpg"; ?>" class="img-responsive">
+<img src="<?php echo get_template_directory_uri()."/images/img/17.jpg"; ?>" class="img-responsive">
+
+</div>
+
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-body">
+      </div>
+    </div>
+
+  </div>
+</div>
+<!-- Gallery END -->
+
 <!-- CONTACT START -->
 <div class="mt-5 contactSectn">
   <h3 class="text-center">Contact</h3>
   <p class="text-center container">Connect with us effortlessly through our Contact page. Whether you have inquiries about our services, want to schedule an appointment, or need assistance, our dedicated team is just a message or call away. Reach out to us, and let's take the next step in preserving and enhancing your vision together.</p>
   <div>
-    <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3713.0915292079308!2d83.97652527396895!3d21.46492498029573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a21171bf53c9f15%3A0x81f14b52e8aa94c7!2sKalyani%20eye%20%26%20retina%20clinic!5e0!3m2!1sen!2sin!4v1702364130055!5m2!1sen!2sin" frameborder="0" allowfullscreen></iframe>
-  </div>
+      <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3712.9675034587017!2d83.97934287526887!3d21.469791680292186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDI4JzExLjMiTiA4M8KwNTgnNTQuOSJF!5e0!3m2!1sen!2sin!4v1706260447886!5m2!1sen!2sin" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
 </div>
 <!-- CONTACT END -->
 
-<!-- End Latest Coupons -->
+<script>
+jQuery(document).ready(function () {
+    jQuery("#spinnerElem").hide();
+    jQuery('#submitAppointment').click(function () {
+        if (jQuery("#name").val().trim() === '') {
+            Swal.fire({
+                icon: "error",
+                title: "Oops...",
+                text: "Please enter your first name"
+            });
+        }
+        else if (jQuery("#inputEmail4").val().trim() === '') {
+            Swal.fire({
+                icon: "error",
+                title: "Oops...",
+                text: "Please enter your email address"
+            });
+        }
+        else if (jQuery("#phone").val().trim() === '') {
+            Swal.fire({
+                icon: "error",
+                title: "Oops...",
+                text: "Please enter your phone number"
+            });
+        }
+        else {
+            jQuery("#spinnerElem").show();
+            jQuery.ajax({
+                method: "POST",
+                url: "https://obifyconsulting.com/apis/PHPMailer/email.php",
+                data: {
+                    firstName: jQuery("#name").val().trim(),
+                    email: jQuery("#inputEmail4").val().trim(),
+                    phone: jQuery("#phone").val().trim(),
+                    message: jQuery("#message").val().trim()
+                },
+                success: function (response) {
+                    jQuery("#spinnerElem").hide();
+                            Swal.fire({
+                        icon: "success",
+                        title: "Request Recieved",
+                        text: "We will contact you soon"
+                    });
+                },
+                error: function (error) {
+                  console.log(error);
+                  debugger;
+                    jQuery("#spinnerElem").hide();
+                    Swal.fire({
+                    icon: "error",
+                    title: "Oops...",
+                    text: "Some error occured"
+                    });
+                }
+            });
+        }
+    });
+});
+</script>
+<script>
+  $(document).ready(function(){
+  $("img").click(function(){
+  var t = $(this).attr("src");
+  $(".modal-body").html("<img src='"+t+"' class='modal-img'>");
+  $("#myModal").modal();
+});
+
+$("video").click(function(){
+  var v = $("video > source");
+  var t = v.attr("src");
+  $(".modal-body").html("<video class='model-vid' controls><source src='"+t+"' type='video/mp4'></source></video>");
+  $("#myModal").modal();  
+});
+});//EOF Document.ready
+</script>
 <?php get_footer();?>

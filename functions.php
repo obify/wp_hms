@@ -32,6 +32,7 @@ function mytheme_scripts_enqueue(){
     wp_enqueue_style( 'hms-css', get_template_directory_uri(). '/assets/css/hms/main.css');
     // wp_enqueue_script('mytheme-fa-css', get_template_directory_uri(). '/assets/css/main.css');
     // wp_enqueue_script('mytheme-owl-js', get_template_directory_uri(). '/assets/js/owl.carousel.min.js');
+    wp_enqueue_script('mytheme-sweetAlertJs',  'https://cdn.jsdelivr.net/npm/sweetalert2@11.10.3/dist/sweetalert2.all.min.js');
 }
 add_action('wp_enqueue_scripts', 'mytheme_scripts_enqueue');
 
