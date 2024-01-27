@@ -18,7 +18,7 @@
     <div class="container">
       <h1>Welcome to Kalyani<br/>Eye & Retina Centre</h1>
       <h2>Where expertise meets compassion,</br>restoring and preserving your precious vision.</h2>
-      <a href="#about" class="btn-get-started scrollto">Get Started</a>
+      <a href="#footer" class="btn-get-started scrollto">Get Started</a>
     </div>
   </section>
   <!-- End Hero -->
@@ -34,7 +34,7 @@
             Experience unrivaled care with advanced technology, skilled specialists, and personalized attention. Our commitment to innovation and compassionate service ensures optimal eye and retina care, fostering trust and well-being for every patient.
           </p>
           <div class="text-center">
-            <a href="#" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
+            <a href="#footer" class="more-btn">Contact <i class="bx bx-chevron-right"></i></a>
           </div>
         </div>
       </div>
@@ -44,22 +44,22 @@
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-receipt"></i>
-                    <h4>Corporis voluptates sit</h4>
-                    <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                    <h4>Retina Surgery & Injections</h4>
+                    <p>Precision in retina surgery enhances vision. Injections aid healing, ensuring optimal eye health and function.</p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-cube-alt"></i>
-                    <h4>Ullamco laboris ladore pan</h4>
-                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                    <h4>Cateract by PHACO Surgery (No Ingection)</h4>
+                    <p>PHACO surgery for cataracts offers clarity without injections, advancing eye care with minimally invasive techniques and precision.</p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-images"></i>
-                    <h4>Labore consequatur</h4>
-                    <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                    <h4>Eye Related Plactic Surgery</h4>
+                    <p>Eye-related plastic surgery rejuvenates appearance, addressing cosmetic concerns while prioritizing safety and optimal vision outcomes for patients.</p>
                   </div>
                 </div>
               </div>
@@ -291,7 +291,64 @@ jQuery(function ($) {
 </div>
 <!-- SERVICES END -->
 
-<div class="container my-3">
+<!-- DEVICES END -->
+<h3 class="galleryTitle">Our Devices</h3>
+<div id="devices" class="container-fluid container mb-3">
+  <img src="<?php echo get_template_directory_uri()."/images/img/devices/d1.jpeg"; ?>" class="img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/devices/d2.jpeg"; ?>" class="img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/devices/d3.jpeg"; ?>" class="img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/devices/d4.jpeg"; ?>" class="img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/devices/d5.jpeg"; ?>" class="img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/devices/d6.jpeg"; ?>" class="img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/devices/d7.jpeg"; ?>" class="img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/devices/d8.jpeg"; ?>" class="img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/devices/d9.jpeg"; ?>" class="img-responsive">
+</div>
+<!-- DEVICES END -->
+
+<!-- Gallery Start -->
+<h3 class="galleryTitle">Gallery</h3>
+<div id="gallery" class="container-fluid">  
+  <img src="<?php echo get_template_directory_uri()."/images/img/hospital.jpg"; ?>" class="img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/inside.jpg"; ?>" class="img-responsive">
+   <img src="<?php echo get_template_directory_uri()."/images/img/1.jpg"; ?>" class="img-responsive">
+  <!-- <video class="vid" controls>
+    <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4">
+    </source>
+  </video> -->
+  <img src="<?php echo get_template_directory_uri()."/images/img/2.jpg"; ?>" class="img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/3.jpg"; ?>" class="img-responsive">
+<img src="<?php echo get_template_directory_uri()."/images/img/4.jpg"; ?>" class="img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/5.jpg"; ?>" class="card img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/6.jpg"; ?>" class="img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/7.jpg"; ?>" class="img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/8.jpg"; ?>" class="img-responsive">
+  <img src="<?php echo get_template_directory_uri()."/images/img/9.jpg"; ?>" class="img-responsive">
+<img src="<?php echo get_template_directory_uri()."/images/img/10.jpg"; ?>" class="img-responsive">
+<img src="<?php echo get_template_directory_uri()."/images/img/11.jpg"; ?>" class="img-responsive">
+<img src="<?php echo get_template_directory_uri()."/images/img/12.jpg"; ?>" class="img-responsive">
+<img src="<?php echo get_template_directory_uri()."/images/img/13.jpg"; ?>" class="img-responsive">
+<img src="<?php echo get_template_directory_uri()."/images/img/14.jpg"; ?>" class="img-responsive">
+<img src="<?php echo get_template_directory_uri()."/images/img/15.jpg"; ?>" class="img-responsive">
+<img src="<?php echo get_template_directory_uri()."/images/img/16.jpg"; ?>" class="img-responsive">
+<img src="<?php echo get_template_directory_uri()."/images/img/17.jpg"; ?>" class="img-responsive">
+
+</div>
+
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-body">
+      </div>
+    </div>
+
+  </div>
+</div>
+<!-- Gallery END -->
+
+<!-- <div class="container my-3">
   <h3 id="heading" class="text-center py-2">Heading</h3>
   <div class="accordion" id="accordionExample">
   <div class="accordion-item">
@@ -308,7 +365,6 @@ jQuery(function ($) {
           <img src="<?php echo get_template_directory_uri()."/images/img/3.jpg"; ?>" class="img-responsive">
         </div>
       </div>
-      <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi minima in neque commodi corrupti voluptate, non porro sit? Molestias assumenda omnis, corrupti at esse itaque possimus sunt minus minima ipsa?</p>
     </div>
   </div>
   <div class="accordion-item">
@@ -320,6 +376,11 @@ jQuery(function ($) {
     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
       <div class="accordion-body">
         <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        <div class="imageCarousel">
+          <img src="<?php echo get_template_directory_uri()."/images/img/hospital.jpg"; ?>" class="img-responsive">
+          <img src="<?php echo get_template_directory_uri()."/images/img/inside.jpg"; ?>" class="img-responsive">
+          <img src="<?php echo get_template_directory_uri()."/images/img/3.jpg"; ?>" class="img-responsive">
+        </div>
       </div>
     </div>
   </div>
@@ -332,14 +393,19 @@ jQuery(function ($) {
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
       <div class="accordion-body">
         <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        <div class="imageCarousel">
+          <img src="<?php echo get_template_directory_uri()."/images/img/hospital.jpg"; ?>" class="img-responsive">
+          <img src="<?php echo get_template_directory_uri()."/images/img/inside.jpg"; ?>" class="img-responsive">
+          <img src="<?php echo get_template_directory_uri()."/images/img/3.jpg"; ?>" class="img-responsive">
+        </div>
       </div>
     </div>
   </div>
-</div>
-</div>
+</div> -->
 
 <!-- APPOINTMENT START -->
-<div class="container mt-5 makeApointment">
+<div class="mt-5 makeApointment">
+  <div class="container">
   <h3 class="text-center">Make an Appointment</h3>
   <p class="text-center">Secure your path to optimal eye health. Schedule an appointment with us today for personalized, expert care, advanced diagnostics, and a commitment to preserving and enhancing your vision. Your journey to clear and healthy eyes begins with a simple appointment.</p>
   <div class="row g-3 mt-4">
@@ -363,6 +429,7 @@ jQuery(function ($) {
     <div id="spinnerElem" class="spinner-border" role="status">
         <span class="visually-hidden">Loading...</span>
     </div>
+  </div>
   </div>
 </div>
 </div>
@@ -429,51 +496,9 @@ jQuery(function ($) {
 </div>
 <!-- QUESTIONS ANSWEAR END -->
 
-<!-- Gallery Start -->
-<h3 class="galleryTitle">Gallery</h3>
-<div id="gallery" class="container-fluid">  
-  <img src="<?php echo get_template_directory_uri()."/images/img/hospital.jpg"; ?>" class="img-responsive">
-  <img src="<?php echo get_template_directory_uri()."/images/img/inside.jpg"; ?>" class="img-responsive">
-   <img src="<?php echo get_template_directory_uri()."/images/img/1.jpg"; ?>" class="img-responsive">
-  <!-- <video class="vid" controls>
-    <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4">
-    </source>
-  </video> -->
-  <img src="<?php echo get_template_directory_uri()."/images/img/2.jpg"; ?>" class="img-responsive">
-  <img src="<?php echo get_template_directory_uri()."/images/img/3.jpg"; ?>" class="img-responsive">
-<img src="<?php echo get_template_directory_uri()."/images/img/4.jpg"; ?>" class="img-responsive">
-  <img src="<?php echo get_template_directory_uri()."/images/img/5.jpg"; ?>" class="card img-responsive">
-  <img src="<?php echo get_template_directory_uri()."/images/img/6.jpg"; ?>" class="img-responsive">
-  <img src="<?php echo get_template_directory_uri()."/images/img/7.jpg"; ?>" class="img-responsive">
-  <img src="<?php echo get_template_directory_uri()."/images/img/8.jpg"; ?>" class="img-responsive">
-  <img src="<?php echo get_template_directory_uri()."/images/img/9.jpg"; ?>" class="img-responsive">
-<img src="<?php echo get_template_directory_uri()."/images/img/10.jpg"; ?>" class="img-responsive">
-<img src="<?php echo get_template_directory_uri()."/images/img/11.jpg"; ?>" class="img-responsive">
-<img src="<?php echo get_template_directory_uri()."/images/img/12.jpg"; ?>" class="img-responsive">
-<img src="<?php echo get_template_directory_uri()."/images/img/13.jpg"; ?>" class="img-responsive">
-<img src="<?php echo get_template_directory_uri()."/images/img/14.jpg"; ?>" class="img-responsive">
-<img src="<?php echo get_template_directory_uri()."/images/img/15.jpg"; ?>" class="img-responsive">
-<img src="<?php echo get_template_directory_uri()."/images/img/16.jpg"; ?>" class="img-responsive">
-<img src="<?php echo get_template_directory_uri()."/images/img/17.jpg"; ?>" class="img-responsive">
-
-</div>
-
-<div id="myModal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-
-    <!-- Modal content-->
-    <div class="modal-content">
-      <div class="modal-body">
-      </div>
-    </div>
-
-  </div>
-</div>
-<!-- Gallery END -->
-
 <!-- CONTACT START -->
 <div class="mt-5 contactSectn">
-  <h3 class="text-center">Contact</h3>
+  <h3 class="text-center">Our Location</h3>
   <p class="text-center container">Connect with us effortlessly through our Contact page. Whether you have inquiries about our services, want to schedule an appointment, or need assistance, our dedicated team is just a message or call away. Reach out to us, and let's take the next step in preserving and enhancing your vision together.</p>
   <div>
       <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3712.9675034587017!2d83.97934287526887!3d21.469791680292186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDI4JzExLjMiTiA4M8KwNTgnNTQuOSJF!5e0!3m2!1sen!2sin!4v1706260447886!5m2!1sen!2sin" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
